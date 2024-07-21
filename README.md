@@ -40,13 +40,23 @@ MergeSortedArrays/
 
 ## Setup and Running the Tests
 
+Running JUnit Tests in IntelliJ IDEA
+
+1-Open IntelliJ IDEA.
+2-Make a Java code and test files.
+3-Mark the Test Directory:
+4- Right-click on your test directory (e.g., src/test/java).
+Select Mark Directory as -> Test Sources Root.
+
+Ensure JUnit Dependency is Added.
+
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
 
 
 
-## Usage
+## Problem
 
 ### Merge Method
 
