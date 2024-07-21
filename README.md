@@ -58,8 +58,10 @@ MergeSortedArrays/
 └── README.md
 ```
 
+
 - `MergeSortedArrays.java`: Contains the implementation of the merge algorithm.
 - `MergeAssertNumberTest.java`: Contains the unit tests for `MergeSortedArrays`.
+
 
 
 ### Unit Tests
@@ -89,4 +91,4 @@ void testMergeEmptyNums1() {
     assertArrayEquals(expected, nums1);
 }
 ```
-![image](https://github.com/user-attachments/assets/a6b6e0b1-b01d-4fc7-af77-bf954705bc38)
+
