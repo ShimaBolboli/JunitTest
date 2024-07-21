@@ -6,16 +6,6 @@ The project includes a method to merge two sorted arrays into one sorted array a
 
 This repository contains the implementation and unit tests for merging two sorted arrays into one sorted array.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Problem](#problem)
-- [Prerequisites](#Prerequisites)
-- [Setup and Running the Tests](#Setup and Running the Tests)
-- [Project Structure](#Project Structure)
-- [Unit Tests](#Unit Tests)
- 
-
 
 ## Problem
 
