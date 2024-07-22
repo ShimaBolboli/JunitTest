@@ -8,7 +8,7 @@ This repository contains the implementation and unit tests for merging two sorte
 
 
 ## Problem
-
+https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150
 ### Merge Method
 
 The `merge` method in `MergeSortedArrays` class takes two sorted arrays `nums1` and `nums2` and their respective sizes `m` and `n`. It merges `nums2` into `nums1` in-place, ensuring that `nums1` remains sorted.
@@ -21,7 +21,11 @@ The final sorted array should not be returned by the function, but instead be st
 
 ### Prerequisites
 
+
+- IntelliJ or any other IDE
 - Java Development Kit (JDK) 8 or higher
+- Junit 5
+
   
   ## Setup and Running the Tests
 
@@ -76,6 +80,9 @@ The unit tests for the `merge` method are located in `MergeAssertNumberTest.java
 - Merging arrays with duplicates.
 - Merging arrays where elements in `nums2` are smaller or larger than elements in `nums1`.
 
+Test Class setUp & cleanUp:
+setUp method with @BeforeAll annotation to run setup before all tests.
+cleanUp method with @AfterAll annotation to run cleanup after all tests.
 
 Example of a unit test:
 
@@ -91,4 +98,6 @@ void testMergeEmptyNums1() {
     assertArrayEquals(expected, nums1);
 }
 ```
+### YouTube Link
 
+https://youtu.be/ujRe50OmgOE
