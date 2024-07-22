@@ -32,13 +32,17 @@ The final sorted array should not be returned by the function, but instead be st
 Running JUnit Tests in IntelliJ IDEA
 
 1-Open IntelliJ IDEA.
+
 2-Make a Java code and test files.
+
 3-Mark the Test Directory:
+
 4- Right-click on your test directory (e.g., src/test/java).
-Select Mark Directory as -> Test Sources Root.
-Ensure your test class is located in the test directory you marked as Test Sources Root.
+
 5-Write Your JUnit Test Class
+
 6-Run the Tests
+
 7-View Test Results, After running the tests, the results will be displayed in the Run tool window.
 It will show which tests passed and which failed, along with error messages or stack traces.
 
