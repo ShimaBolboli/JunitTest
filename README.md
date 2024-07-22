@@ -102,6 +102,13 @@ void testMergeEmptyNums1() {
     assertArrayEquals(expected, nums1);
 }
 ```
+### Test Result
+<img width="1441" alt="Screenshot 2024-07-21 at 11 45 36 PM" src="https://github.com/user-attachments/assets/7f54b8f3-e5e9-4a99-9b42-a5b2bd08638f">
+
+### Test Coverage
+<img width="755" alt="Screenshot 2024-07-21 at 11 45 05 PM" src="https://github.com/user-attachments/assets/d6c1eb67-a3ab-44a8-85da-6dd726634534">
+
+
 ### YouTube Link
 
 https://youtu.be/ujRe50OmgOE
